@@ -1,0 +1,23 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "My first Express Server.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srico7/Express-server.git"
+  },
+  "author": "Chathura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srico7/Express-server/issues"
+  },
+  "homepage": "https://github.com/srico7/Express-server#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

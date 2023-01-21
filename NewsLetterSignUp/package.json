@@ -1,0 +1,24 @@
+{
+  "name": "newslettersignup",
+  "version": "1.0.0",
+  "description": "NewsLetter Sign up page to reasive and save Emails in Mailchimp using their API. And deploying it in Heroku.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srico7/Express-server.git"
+  },
+  "author": "Chathura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srico7/Express-server/issues"
+  },
+  "homepage": "https://github.com/srico7/Express-server#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  }
+}

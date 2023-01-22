@@ -4,6 +4,7 @@
   "description": "NewsLetter Sign up page to reasive and save Emails in Mailchimp using their API. And deploying it in Heroku.",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

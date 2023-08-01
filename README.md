@@ -1,5 +1,5 @@
 # Express-server 
-This Repo containg A Weather calculator from city name , And NewsLetter SignUp page using MailChimp API
+This Repo contains A Weather calculator from the city name, And NewsLetter SignUp page using MailChimp API
 
 And Hosting on Heroku
 
